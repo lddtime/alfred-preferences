@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>6A7E7498-7DF7-4377-97B2-96F7620EAFCC</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>bd</string>
+			<key>text</key>
+			<string>百度 {query}</string>
+			<key>url</key>
+			<string>https://www.baidu.com/s?wd={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>9F4369AF-3632-4579-80EA-E78D8E770780</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>lk</string>
+			<key>text</key>
+			<string>learnku/{query}</string>
+			<key>url</key>
+			<string>https://learnku.com/{query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>useHTTPS</key>
+	<true/>
+</dict>
+</plist>
