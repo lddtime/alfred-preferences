@@ -4,6 +4,19 @@
 <dict>
 	<key>customSites</key>
 	<dict>
+		<key>2FDCC016-BDD1-4C76-8D38-F04BA36ABD7D</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>fy</string>
+			<key>text</key>
+			<string>翻译 {query}</string>
+			<key>url</key>
+			<string>https://fanyi.baidu.com/translate#en/zh/{query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
 		<key>6A7E7498-7DF7-4377-97B2-96F7620EAFCC</key>
 		<dict>
 			<key>enabled</key>
